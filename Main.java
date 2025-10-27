@@ -1,7 +1,7 @@
 // Main.java
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Привет, мир! Hello Vitaly!");
+        System.out.println("=== КАЛЬКУЛЯТОР ФАКТОРИАЛА ===");
 
         System.out.println("5! (рекурсия) = " + factorialRecursive(5));
         System.out.println("5! (итерация) = " + factorialIterative(5));
